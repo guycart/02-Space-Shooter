@@ -1,5 +1,5 @@
 # Project 2 Space Shooter
-Exercise for MSCH-C220, 16 September 2021
+Exercise for MSCH-C220, 22 September 2021
 
 A space shooter game.
 
